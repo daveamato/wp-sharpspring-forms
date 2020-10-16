@@ -6,8 +6,8 @@ namespace SFTC\Includes;
  *
  * @package    SFTC
  * @subpackage SFTC/Includes
- * @author     Fulcrum Creatives <dev@fulcrumcreatives.com>
- * @copyright  Copyright (c) 2016, Fulcrum Creatives
+ * @author     David Amato <damato@atlasoutdoor.com>
+ * @copyright  Copyright (c) 2020, Atlas Outdoor
  * @license    http://opensource.org/licenses/gpl-2.0.php GNU Public License
  * @since      1.2.0
  */

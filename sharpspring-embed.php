@@ -5,23 +5,23 @@ namespace SFTC;
  * SharpSpring Form Tacking Code Embed
  * 
  * @package     SFTC
- * @copyright   Copyright (c) 2014, Fulcrum Creatives
+ * @copyright   Copyright (c) 2020, Atlas Outdoor
  * @license     http://opensource.org/licenses/gpl-2.0.php GNU Public License
  * @since       1.0.0
- * @author      Fulcrum Creatives <dev@fulcrumcreatives.com>
+ * @author      David Amato <damato@atlasoutdoor.com>
  *
  * @wordpress-plugin
- * Plugin Name:       SharpSpring Form Tracking Code Embed
- * Plugin URI:        https://github.com/Fulcrum-Creatives/sharpspring-embed
- * Description:       A shortcode for embedding the SharpSpring form tracking code
+ * Plugin Name:       SharpSpring Forms
+ * Plugin URI:        https://github.com/daveamato/wp-sharpspring-forms
+ * Description:       A shortcode for embedding the SharpSpring form code
  * Version:           1.2.0
- * Author:            Fulcrum Creatives
- * Author URI:        http://fulcrumcreatives.com
+ * Author:            David Amato
+ * Author URI:        https://atlasoutdoor.com
  * License:           GPL-2.0+
  * License URI:       http://www.gnu.org/licenses/gpl-2.0.txt
  * Text Domain:       sftc
  * Domain Path:       /languages
- * GitHub Plugin URI: https://github.com/Fulcrum-Creatives/sharpspring-embed
+ * GitHub Plugin URI: https://github.com/daveamato/wp-sharpspring-forms
  * GitHub Branch:     master 
  */
 
